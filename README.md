@@ -45,5 +45,5 @@ Internet MDF is under development. You may encounter some errors or defects. If 
 
 
 <div align="center">
-    <h1>Thank you for using Internet mdf!</h1>
+    <h1>Thank you for using Internet MDF!</h1>
 </div>
